@@ -1,0 +1,282 @@
+
+
+@media( max-width:575.98px){
+
+    .menu-bg button i{
+        color: #ff014f !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+    }
+
+    .menu-bg ul{
+        text-align: center;
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+        
+    }
+    .menu-bg ul li a {
+        margin: -56px 100px !important;
+    }
+    .menu-bg ul li a.active{
+        margin: 0 100px !important;
+        margin-bottom: 10px !important;
+        display: block;
+    }
+
+    .banner-icon a, .banner-icon2 a {
+        margin-left: 1px;
+       
+    }
+
+    .banner-icon a i, .banner-icon2 a i{
+        margin-bottom: 12px;
+    }
+   .skills-inner{
+    margin-left: -90px;}
+    #testi{
+        display: none;
+    }
+    .resume-over {
+       
+        top: 21%;
+        left: 72%;
+     
+    }
+    .price-item{
+        margin: 40px 0;
+    }
+    .blog-inner{
+        margin: 26px 0;
+    }
+
+    .claients-item li a {
+        padding: 5px 100px;
+    }
+    .feature-item{
+        margin: 20px 0 !important;
+    }
+    .prot-item{
+        margin: 20px 0;
+    }
+    .footer-icon{
+        margin-bottom: 30px !important;
+        padding-left: 100px;
+    }
+    .line{
+        text-align: center;
+    }
+      
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ @media (min-width: 576px) and (max-width: 767.98px){
+
+    .navbar-light .navbar-toggler {
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+    }
+
+
+    .menu-bg button i{
+        color: #fff !important;
+    }
+    .banner-icon i, .banner-icon2 i {
+        margin: 0 14px;
+    }
+    .price-item{
+        margin: 40px 0;
+    }
+    .blog-inner{
+        margin: 26px 0;
+    }
+    .menu-bg ul{
+        text-align: center;
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+        
+    }
+    .menu-bg ul li a {
+        margin: -56px 100px !important;
+    }
+
+
+    .menu-bg ul li a.active{
+        margin: 0 100px;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    .feature-item{
+        border-radius: 10px;
+        margin-bottom:40px !important;
+    }
+    .prot-item{
+        margin-bottom: 40px !important;
+    }
+
+
+    .skills-inner{
+        margin-left: -100px;
+    }
+    #testi{
+        display: none !important;
+    }
+
+    .footer-icon{
+        margin-bottom: 30px !important;
+        padding-left: 100px;
+    }
+    .claients-item li {
+        
+        padding: 10px 52px;
+    }
+    
+
+}
+
+
+
+
+
+  
+
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+    .navbar-light .navbar-toggler {
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+    }
+
+
+
+    .menu-bg button i{
+        color: #fff !important;
+    }
+    .banner-icon i, .banner-icon2 i {
+        margin: 0 14px;
+    }
+    .price-item{
+        margin: 40px 0;
+    }
+    .blog-inner{
+        margin: 26px 0;
+    }
+    .menu-bg ul{
+        text-align: center;
+        background-color: #000;
+        box-shadow: -1px 0px 5px 2px rgba(253,250,250,0.75);
+        
+    }
+    .menu-bg ul li a {
+        margin: -56px 100px !important;
+    }
+    .menu-bg ul li a:hover{
+        border-radius: 50px;
+    }
+
+    .menu-bg ul li a.active{
+        margin: 0 200px;
+        margin-bottom: 10px;
+        display: block;
+        border-radius: 50px;
+    }
+    .menu-bg ul li a.active{
+        margin-bottom: 50px;
+        margin-top: 30px;
+    }
+
+
+    .feature-item{
+        border-radius: 10px;
+        margin-bottom:40px !important;
+    }
+    .colorful-tab-menu-item {
+        margin: 6px 38px !important;
+      
+    }
+
+    
+    #testi{
+        display: none;
+    }
+    .claients-item li a {
+        padding: 5px 172px;
+    }
+
+    
+
+
+  }
+
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+    .banner-icon i, .banner-icon2 i {
+        margin: 0 15px;
+    }
+
+    .resume-over {
+        top: 21%;
+        left: 69%;
+    }
+
+    .testi-inner {
+        margin-right: -2px; 
+    }
+
+    .testi-over {
+        top: 150px;
+        left: 368px;
+    }
+
+    .claients-item li a {
+        padding: 5px 9px;
+       
+    }
+
+    .clients-img::after {
+        left: 33px;
+        width: 60%; 
+    }
+    .price-over {
+        left: 197px;
+    }
+    .blog-inner {
+        margin: 0 -4px;
+
+    }
+
+    .contact-item {
+        margin: 0 1px;
+        border-radius: 5px;
+    }
+    .footer-icon a {
+        margin: 0 8px;
+    }
+    
+  }
+
+
+/* @media (min-width: 1200px) and  (max-width: 1399.98px) { ... }
+
+
+@media (min-width: 1400px) and { ... }   */
+
+
+
+
