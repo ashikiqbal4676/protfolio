@@ -98,8 +98,8 @@ new WOW().init();
 
  new kursor({
     type: 1,
-    removeDefaultCursor: true,
-    color:"#ECF0F1"
+    removeDefaultCursor: false,
+    color:"#C71585"
   })
 
 
